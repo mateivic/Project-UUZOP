@@ -1,4 +1,4 @@
-# A machine learning strategy for predicting march madness winners (projekt-UUZOP)
+# A machine learning strategy for predicting march madness winners (project-UUZOP)
 Project from the subject Introduction to Data Science.
 
 Article links:
